@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 <h3>Stack Tecnológico</h3>
 </div>
 
