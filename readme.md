@@ -2,7 +2,7 @@
 <h3>Stack Tecnológico</h3>
 </div>
 
-<p style="text-align: center">
+<p align="center">
 <img src="https://img.shields.io/badge/Javascript-ECMAScript%206+-yellow?style=plastic" alt="">
 <img src="https://img.shields.io/badge/html-v5-orange?style=plastic" alt="">
 </p>
